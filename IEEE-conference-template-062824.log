@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.11.15)  15 NOV 2026 16:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.11.15)  15 NOV 2026 17:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -148,7 +148,7 @@ LaTeX Font Info:    ... okay on input line 6.
 
 -- Lines per column: 56 (exact).
 
-Underfull \hbox (badness 4699) in paragraph at lines 141--143
+Underfull \hbox (badness 4699) in paragraph at lines 131--133
 []\OT1/ptm/m/it/10 Preprocessing: \OT1/ptm/m/n/10 The in-put im-age is con-vert
 ed to
  []
@@ -159,45 +159,45 @@ ocal/texlive/2026/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 166.
+(Font)              <7> on input line 156.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 166.
+(Font)              <5> on input line 156.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 314.
+(Font)              <8> on input line 301.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 314.
+(Font)              <6> on input line 301.
 
-Underfull \hbox (badness 3657) in paragraph at lines 323--323
+Underfull \hbox (badness 3657) in paragraph at lines 310--310
 []\OT1/ptm/m/n/8 Edge den-sity and con-
  []
 
 
-Underfull \hbox (badness 1939) in paragraph at lines 324--325
+Underfull \hbox (badness 1939) in paragraph at lines 311--312
 []\OT1/ptm/m/n/8 Foreground re-gion, con-
  []
 
 
-Underfull \hbox (badness 6641) in paragraph at lines 326--327
+Underfull \hbox (badness 6641) in paragraph at lines 313--314
 \OT1/ptm/m/n/8 ogy, con-nected com-po-
  []
 
 
-Underfull \hbox (badness 1838) in paragraph at lines 326--327
+Underfull \hbox (badness 1838) in paragraph at lines 313--314
 \OT1/ptm/m/n/8 nent anal-y-sis, and tem-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 327--329
+Underfull \hbox (badness 10000) in paragraph at lines 314--316
 []\OT1/ptm/m/n/8 Background sub-trac-tion,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 327--329
+Underfull \hbox (badness 10000) in paragraph at lines 314--316
 \OT1/ptm/m/n/8 seg-men-ta-tion, con-tour
  []
 
 
-Overfull \hbox (0.71631pt too wide) in paragraph at lines 314--333
+Overfull \hbox (0.71631pt too wide) in paragraph at lines 301--320
  [][] 
  []
 
@@ -232,7 +232,7 @@ Here is how much of TeX's memory you used:
 al/texlive/2026/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texliv
 e/2026/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2026/tex
 mf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on IEEE-conference-template-062824.pdf (3 pages, 79317 bytes).
+Output written on IEEE-conference-template-062824.pdf (3 pages, 79350 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream
