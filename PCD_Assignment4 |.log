@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.11.15)  15 NOV 2026 17:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.11.15)  15 NOV 2026 18:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**IEEE-conference-template-062824.tex
-(./IEEE-conference-template-062824.tex
+**"PCD_Assignment4 |.tex"
+(./PCD_Assignment4 |.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
-(./IEEEtran.cls
+(/usr/local/texlive/2026/texmf-dist/tex/latex/ieeetran/IEEEtran.cls
 Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
 -- See the "IEEEtran_HOWTO" manual for usage information.
 -- http://www.michaelshell.org/tex/ieeetran/
@@ -128,8 +128,8 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count290
 )
-(./IEEE-conference-template-062824.aux)
-\openout1 = `IEEE-conference-template-062824.aux'.
+(./PCD_Assignment4 |.aux)
+\openout1 = `"PCD_Assignment4 |.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
@@ -213,26 +213,26 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[3] (./IEEE-conference-template-062824.aux)
+[3] (./PCD_Assignment4 |.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 1480 strings out of 467525
- 28480 string characters out of 5418981
+ 1482 strings out of 467525
+ 28509 string characters out of 5418981
  455756 words of memory out of 5000000
- 30442 multiletter control sequences out of 15000+600000
+ 30443 multiletter control sequences out of 15000+600000
  662878 words of font info for 98 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,10n,39p,226b,295s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 38i,10n,39p,214b,295s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 ></usr/local/texlive/2026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/loc
 al/texlive/2026/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texliv
 e/2026/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2026/tex
 mf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on IEEE-conference-template-062824.pdf (3 pages, 79350 bytes).
+Output written on "PCD_Assignment4 |.pdf" (3 pages, 79350 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream
